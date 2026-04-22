@@ -1,6 +1,6 @@
 # GPT Image 2 Guide: Features, Use Cases, and How to Use
 
-GPT Image 2 is one of the most discussed image models in the current AI image generator market. If you are searching for `[GPT Image 2](http://dance2ai.com/models/gpt-image-2)`, `gpt images 2.0`, `image-2`, or `chatgpt images 2.0`, you are probably not looking for hype alone. You want to know what the model actually does well, where it fits into real workflows, and whether it is worth using instead of a more generic AI image generator.
+GPT Image 2 is one of the most discussed image models in the current AI image generator market. If you are searching for [GPT Image 2](http://dance2ai.com/models/gpt-image-2), `gpt images 2.0`, `image-2`, or `chatgpt images 2.0`, you are probably not looking for hype alone. You want to know what the model actually does well, where it fits into real workflows, and whether it is worth using instead of a more generic AI image generator.
 
 That is the right question.
 
